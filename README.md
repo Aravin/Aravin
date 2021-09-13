@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋🏽 I'm Aravind Appadurai
+
+🔭 I’m currently working on Everi Fintech as Senior Software Engineer II.
+
+My primary tech stacks are Node.js (Runtime), Typescript or Javascript for front and backend development, MongoDB, Firebase Firestore, Postgres, MSSQL for Database and Flutter for Mobile App development.
+
+You can find more details on my website: https://www.aravin.net
+
+My e-resume https://resume.aravin.net
+
+---
+
+🌱 I’m currently learning React.js, Next.js, DSA and so on.
+
 
 <!--
 **Aravin/Aravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
