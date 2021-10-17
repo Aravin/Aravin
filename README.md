@@ -12,7 +12,8 @@ My e-resume https://resume.aravin.net
 
 🌱 I’m currently learning React.js, Next.js, DSA and so on.
 
-And building a new app called Resume Tree - Free & Open-source Resume/CV Generator https://github.com/Aravin/Resume-Tree
+And building a new app called Resume Vita - Free & Open-source Resume/CV Generator https://github.com/Aravin/Resume-Tree
+Alpha version of Resume Vita can be accessed from https://www.resumevita.com/
 
 
 <!--
