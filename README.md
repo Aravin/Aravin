@@ -32,5 +32,10 @@ Here are some ideas to get you started:
 -->
 
 ---
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 [![Aravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravin)](https://github.com/anuraghazra/github-readme-stats)
