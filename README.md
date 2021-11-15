@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 -->
 
 ---
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- ### Blog posts
+ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
