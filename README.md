@@ -39,6 +39,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravin)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
-
 [![Aravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravin)](https://github.com/anuraghazra/github-readme-stats)
