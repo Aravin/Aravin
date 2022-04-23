@@ -1,6 +1,6 @@
 ### Hi there 👋🏽 I'm Aravind Appadurai
 
-🔭 I’m currently working on Everi Fintech as Senior Software Engineer II.
+🔭 I’m currently working on EPAM Systems as Lead Software Engineer.
 
 My primary tech stacks are Node.js (Runtime), Typescript or Javascript for front and backend development, MongoDB, Firebase Firestore, Postgres, MSSQL for Database and Flutter for Mobile App development.
 
